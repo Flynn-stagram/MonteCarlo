@@ -175,3 +175,16 @@ The `Analyzer` object is initialized with a `Game` object as its input parameter
 - `face_count()`: A method that computes how many times a given face is rolled in each event. It returns a DataFrame of the results in wide format and stores it in the `facecount_results` attribute.
 
 Note: The methods of the `Analyzer` class assume that the `Game` object has a `show_results()` method that returns a DataFrame of the results of the game.
+
+## Manifest
+
+D .
+__init__.py
+all_tests.py
+all_unit_test_results.txt
+__init__.py
+montecarlo.py
+FinalProiectSubmissionTemplat….
+LICENSE
+README.md
+setup.py
