@@ -178,7 +178,6 @@ Note: The methods of the `Analyzer` class assume that the `Game` object has a `s
 
 ## Manifest
 
-D .
 __init__.py
 all_tests.py
 all_unit_test_results.txt
